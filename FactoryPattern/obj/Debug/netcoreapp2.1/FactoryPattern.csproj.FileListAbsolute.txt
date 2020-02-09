@@ -1,0 +1,11 @@
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.deps.json
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.runtimeconfig.json
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.runtimeconfig.dev.json
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.dll
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\bin\Debug\netcoreapp2.1\FactoryPattern.pdb
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csprojAssemblyReference.cache
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csproj.CoreCompileInputs.cache
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfoInputs.cache
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfo.cs
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.dll
+Z:\Users\jamyers.ANDY\Documents\OneDrive\Code\Visual Studio 2017\DesignPatterns\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.pdb
